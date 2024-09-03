@@ -1,0 +1,13 @@
+{
+    "records": {
+        "M": {
+            "name": "M",
+            "address": "H, Y 3/1",
+            "email": "hdfgghs@email.com",
+            "phones": [
+                "1010102938"
+            ],
+            "birthday": "12.12.1960"
+        }
+    }
+}

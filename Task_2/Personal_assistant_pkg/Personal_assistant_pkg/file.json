@@ -1,0 +1,13 @@
+{
+    "records": {
+        "Mar vak": {
+            "name": "Mar Vak",
+            "address": "Kyiv, Jgkjgkghk 67",
+            "email": "lfghja@gmail.com",
+            "phones": [
+                "1234567890"
+            ],
+            "birthday": "18.08.1989"
+        }
+    }
+}
